@@ -1,4 +1,4 @@
-# labtime_widgets
+# widgets
 
 A new Flutter project.
 
